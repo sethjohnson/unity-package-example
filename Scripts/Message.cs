@@ -9,7 +9,7 @@ namespace Namespace.UnityPackageExample
         public static void HelloWorld()
         {
 
-            Debug.Log("Hello, World");
+            Debug.Log("Hello, Unity");
 
         }
 
